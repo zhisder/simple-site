@@ -1,6 +1,6 @@
 <nav>
-	<ul>
-		<li><a href="@pathto(index)">home</a></li>
-		<li><a href="@pathto(about)">about</a></li>
+	<ul class="drop_menu">
+		<li class="dm_li"><a href="@pathto(index)">home</a></li>
+		<li class="dm_li"><a href="@pathto(about)">about</a></li>
 	</ul>
 </nav>

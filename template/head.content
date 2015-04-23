@@ -1,6 +1,7 @@
 <title>basic site - @pagetitle</title>
 
 @cssinclude(site/css/pagestyle.css)
+@cssinclude(site/css/dropmenu.css)
 @cssinclude(site/css/pre.css)
 
 <!-- uses google-code-prettify for syntax highlighting 
