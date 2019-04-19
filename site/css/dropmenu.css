@@ -86,6 +86,10 @@ li.dm_li:hover ul.drop_submenu
 	-webkit-transition:0.5s;
 	/* ...and now for the proper property */
 	transition:0.5s;
+
+	-webkit-user-select: none; /* Chrome/Safari */        
+	-moz-user-select: none; /* Firefox */
+	-ms-user-select: none; /* IE10+ */
 }
 
 
